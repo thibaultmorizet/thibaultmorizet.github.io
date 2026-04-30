@@ -29,7 +29,7 @@ const ConnectLinks: ConnectLink[] = [
     },
     {
         label: "linkedIn",
-        href: "https://www.linkedin.com/in/thibault-morizet-marminc-4489781b5/",
+        href: "https://www.linkedin.com/in/thibault-morizet-4489781b5/",
         icon: <FaLinkedin/>,
     },
 ];
